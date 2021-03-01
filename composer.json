@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jms/serializer-bundle": "^3.8",
+        "friendsofsymfony/rest-bundle": "^3.0"
+    }
+}
